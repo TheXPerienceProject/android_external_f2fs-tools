@@ -47,6 +47,7 @@ cc_defaults {
         "-DF2FS_TOOLS_VERSION=\"1.14.0\"",
         "-DF2FS_TOOLS_DATE=\"2020-08-24\"",
         "-DWITH_ANDROID",
+        "-DWITH_KERNEL_VERSION",
         "-Wall",
         "-Werror",
         "-Wno-format",
